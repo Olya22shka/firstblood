@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace firstblood
 {
-    class Program
+    class Bar
     {
-        static void Main(string[] args)
-        {
-
-        }
+        public List<Human> Barman { get;set }
     }
 }

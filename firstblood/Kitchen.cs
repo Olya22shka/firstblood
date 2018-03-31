@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace firstblood
 {
-    class Program
+    class Kitchen
     {
-        static void Main(string[] args)
-        {
-
-        }
+        List<Human> Cookers { get; set; }
     }
 }
